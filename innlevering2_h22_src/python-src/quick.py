@@ -1,5 +1,3 @@
-from statistics import median
-
 #Sorting algorithm sorting using quicksort
 #Takes input of countswaps object holding countcompares. Not a list of ints.
 def sort(A):
